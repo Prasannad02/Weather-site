@@ -1,7 +1,7 @@
 
 ## Title
 
-    Weather Site
+ ##Weather Site
 ## Description 
 
 Introducing my weather app built in JavaScript! With data sourced from OpenWeatherMap, it provides real-time weather conditions for any city. Stay informed and plan your day accordingly with this reliable and user-friendly application.
@@ -56,7 +56,7 @@ If you have any suggestions, improvements, or bug fixes, feel free to submit a p
 
 For any questions or inquiries, please feel free to reach out. 
 
-TG :
+
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasanna1572/)
 
