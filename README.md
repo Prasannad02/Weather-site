@@ -1,13 +1,13 @@
 
 ## Title
 
-TG Codes💛-Weather App
+Weather site
 ## Description 
 
 Introducing my weather app built in JavaScript! With data sourced from OpenWeatherMap, it provides real-time weather conditions for any city. Stay informed and plan your day accordingly with this reliable and user-friendly application.
 ## Authors
 
-- [TG💛](https://www.github.com/codesofTG) 
+Github-() 
 
 
 ## Demo
@@ -56,14 +56,14 @@ If you have any suggestions, improvements, or bug fixes, feel free to submit a p
 
 For any questions or inquiries, please feel free to reach out. 
 
-TG :
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tg2691/)
 
 
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tg_262001)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasanna1572/)
 
-[![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_tg.26_)
+
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Hirthik_cham)
+
+[![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moonstrucktraveller003/)
 
 
 Thank you for visiting the page!
