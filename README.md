@@ -6,15 +6,15 @@ Weather site
 
 Introducing my weather app built in JavaScript! With data sourced from OpenWeatherMap, it provides real-time weather conditions for any city. Stay informed and plan your day accordingly with this reliable and user-friendly application.
 ## Authors
-
-Github-() 
+Prasanna
+Github-(https://github.com/Prasannad02) 
 
 
 ## Demo
 
 Live Demo:
 
-    https://codesoftg.github.io/TG-Codes-Weather-Site/
+    
 ## Getting Started
 
 To explore or modify the code, follow these steps:
